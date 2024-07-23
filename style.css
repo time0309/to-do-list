@@ -103,7 +103,7 @@ li {
 .k {
 font-size: 20px;
 color: rgb(47, 25, 136);
-background-color: rgb(250, 146, 156);
+background-color: rgb(235, 138, 209);
 border: none;
 padding: 10px 10px;;
 border-radius: 10px;
@@ -116,7 +116,7 @@ cursor: pointer;
 }
 
 .cc {
-    background-color: rgb(235, 138, 209);
+    background-color: rgb(215, 243, 172);
     padding: 10px 10px;;
     border-radius: 10px;
 }
@@ -135,7 +135,7 @@ cursor: pointer;
         background: white;
         border-radius: 2rem;
         margin-left: 20px;
-
+        
     }
     
     #b {
@@ -151,4 +151,7 @@ cursor: pointer;
         margin-left: 0.5rem;
         margin-right: 20px;
     }
+    
+
+    
 }
