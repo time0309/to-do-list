@@ -135,7 +135,7 @@ cursor: pointer;
         background: grey;
         border-radius: 2rem;
         margin-left: 20px;
-        position: fixed;
+        bottom: 0;
     }
     
     #b {
