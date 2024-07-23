@@ -135,7 +135,7 @@ cursor: pointer;
         background: grey;
         border-radius: 2rem;
         margin-left: 20px;
-        bottom: 0;
+
     }
     
     #b {
@@ -153,5 +153,8 @@ cursor: pointer;
     }
     
 
-    
+ .container {
+  height: 100vh;
+  overflow-y: auto; /* 允许内容滚动 */
+}
 }
