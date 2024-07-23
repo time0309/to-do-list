@@ -124,7 +124,33 @@ cursor: pointer;
 /*Resonsive Design*/
 
 
-@media screen and (max-width:820px){
+@media screen and (max-width:500px){
+   
+    #taskInput {
+        width:75%;
+        padding: 0.5rem;
+        padding-left: 1rem;
+        font-size: 1.8rem;
+        border: none;
+        background: white;
+        border-radius: 2rem;
+        margin-left: 20px;
+    }
+    
+    #b {
+        width:25%;
+        padding: 0.7rem;
+        font-size: 1.5rem;
+        border: none;
+        border-radius: 2rem;
+        color: rgb(255, 255, 255);
+        background: rgb(183, 103, 162);
+        cursor: pointer;
+        transition: all 0.3 ease;
+        margin-left: 0.5rem;
+        margin-right: 20px;
+    }
     
 
+    
 }
