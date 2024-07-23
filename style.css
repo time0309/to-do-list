@@ -135,6 +135,7 @@ cursor: pointer;
         background: white;
         border-radius: 2rem;
         margin-left: 20px;
+        position: fixed;
     }
     
     #b {
